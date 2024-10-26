@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "922629079292",
+    "project_id": "pushnatificationfirebase",
+    "storage_bucket": "pushnatificationfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922629079292:android:6eb0555ddad37504435779",
+        "android_client_info": {
+          "package_name": "com.example.pushnatificationfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMmK25F5U8CKWkj1Z6j9nZFVGGRgvNYQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
